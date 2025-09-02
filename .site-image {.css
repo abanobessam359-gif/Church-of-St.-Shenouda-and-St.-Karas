@@ -12,3 +12,9 @@ body {
   width: 120px;
   margin-bottom: 20px;
 }
+.logo {
+  width: 120px;   /* حجم اللوجو */
+  margin-bottom: 20px; /* مسافة تحت اللوجو */
+}
+
+
